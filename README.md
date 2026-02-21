@@ -30,11 +30,11 @@ Docker
 
 I actively use AI-assisted development tools to improve productivity, code quality, and learning efficiency.
 
-Agentic Programming
-ChatGPT
-Google Gemini
-Blackbox AI
-Cursor
+Agentic Programming,
+ChatGPT,
+Google Gemini,
+Blackbox AI,
+Cursor,
 Antigravity
 
 
