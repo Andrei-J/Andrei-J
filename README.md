@@ -36,7 +36,7 @@ Blackbox AI
 Cursor
 Antigravity
 
-
+"I build to learn and learn to build"
 
 <!---
 Andrei-J/Andrei-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
